@@ -1,0 +1,7 @@
+venv/
+.matplotlib_cache/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.csv
